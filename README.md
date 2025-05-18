@@ -1,2 +1,13 @@
-# automated-file-organizer
-A Python-based automation script that organizes files in a directory into subfolders by type (Images, Documents, Videos, Music, Others). Designed for efficiency, this tool is ideal for digital decluttering and showcases practical Python scripting with os and shutil.
+# Automated File Organizer
+
+This Python script organizes files in a folder into subfolders like Images, Documents, Videos, etc.
+
+## How to Use
+1. Place the script in a folder with mixed files.
+2. Run the script: `python organize_files.py`
+3. Files will be moved into categorized folders.
+
+## Technologies
+- Python 3
+- OS module
+- shutil module
